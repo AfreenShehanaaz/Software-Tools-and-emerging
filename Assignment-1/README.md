@@ -260,7 +260,7 @@ The screenshot showing the successful Slack alert is saved at:
 
 `screenshots/slack_alert.png`
 
-![MapleFreight Slack Alert](screenshots/slack_alert.png)
+![MapleFreight Slack Alert](Screenshots/slack_alert.png)
 
 ## 14. Tools and Technologies
 
